@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,200;1,300;1,400; 1.500 & display=trocar');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+
+header {
+    margin: 2.75rem 0 9rem 4.75rem;
+}
+
+.link-header {
+    font-weight: 200;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    text-transform: uppercase;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 1.438rem;
+}
+
+.button-one {
+    background-color: #665AE1;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 200;
+    border: none;
+    width: 8.125rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+}
+
+.img-logo {
+    width: 35.5rem;
+    height: 31.25rem;
+    margin-left: 7.8rem;
+    display: inline-block;
+}
+
+main .information {
+    margin: 0 9.25rem 35.1rem 48.7rem;
+}
+
+h1 {
+    font-weight: 900;
+    color: #515151;
+    font-size: 6rem;
+    line-height: 7.6rem;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 3.6rem;
+    color: #515151;
+    line-height: 4.44rem;
+}
+
+p {
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.82rem;
+    color: #515151;
+}
